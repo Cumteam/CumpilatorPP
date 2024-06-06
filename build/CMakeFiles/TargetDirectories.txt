@@ -1,0 +1,3 @@
+C:/Users/C_MAK/OneDrive - Televic Group NV/Documents/CumpilatorPP/build/CMakeFiles/Cumpilator.dir
+C:/Users/C_MAK/OneDrive - Televic Group NV/Documents/CumpilatorPP/build/CMakeFiles/edit_cache.dir
+C:/Users/C_MAK/OneDrive - Televic Group NV/Documents/CumpilatorPP/build/CMakeFiles/rebuild_cache.dir
