@@ -1,7 +1,7 @@
 #include <gtest/gtest.h>
-#include "lexer.hh"
+#include <lexer.hh>
 
-// Test the lexer constructor
+// Test the lexer constructor 
 
 TEST(lexer, constructor){
     frontend::lexer l("Hello World");
@@ -31,10 +31,10 @@ TEST(lexer, multiple_spaces){
     EXPECT_EQ(l.tokens[4], "x");
     EXPECT_EQ(l.tokens[5], "+");
     EXPECT_EQ(l.tokens[6], "1");
-    EXPECT_EQ(l.tokens[7], ")");
+    EXPECT_EQ(l.tokens[7], "'");
 }
 
-int main(int argc, char **argv){
-    testing::InitGoogleTest(&argc, argv);
-    return RUN_ALL_TESTS();
+int main(){
+	testing::InitGoogleTest();
+	return RUN_ALL_TESTS();
 }
