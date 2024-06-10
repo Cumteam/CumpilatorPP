@@ -52,10 +52,6 @@ Mkfile.old
 dkms.conf
 
 # Local files
-./vs
-./build
-./bin
-./out
 /.vs
 /build
-/out/build/x64-debug
+/out
