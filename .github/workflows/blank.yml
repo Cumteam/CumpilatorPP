@@ -33,13 +33,5 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          echo test, and deploy your project.
-
-      - name: CodeThreat Scanner
-      # You may pin to the exact commit or the version.
-      # uses: CodeThreat/codethreat-github-action@89ccd1d539dc44a0c57aab95489f633eb93f7052
-        uses: CodeThreat/codethreat-github-action@v1.021
-        with:
-          # FAILED_ARGS
-          FAILED_ARGS: optional # optional, default is 
+          echo test, and deploy your project
                 
