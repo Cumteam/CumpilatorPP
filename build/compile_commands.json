@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/C_MAK/OneDrive - Televic Group NV/Documents/CumpilatorPP/build",
-  "command": "C:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/Cumpilator.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/Cumpilator.dir/src/frontend/lexer.cc.obj -c \"C:/Users/C_MAK/OneDrive - Televic Group NV/Documents/CumpilatorPP/src/frontend/lexer.cc\"",
-  "file": "C:/Users/C_MAK/OneDrive - Televic Group NV/Documents/CumpilatorPP/src/frontend/lexer.cc",
-  "output": "CMakeFiles/Cumpilator.dir/src/frontend/lexer.cc.obj"
-}
-]
